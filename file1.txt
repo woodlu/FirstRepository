@@ -3,5 +3,5 @@ lalalalala
 ammend commit
 suka bla time
 line from user1
-
+nu pizdec user2 pomenyal
 suka ti (form branch master)
