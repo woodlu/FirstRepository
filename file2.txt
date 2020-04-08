@@ -1,2 +1,3 @@
 good bye
 after SSH test
+line from user2
